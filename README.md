@@ -40,41 +40,41 @@ CAPITULO 11: Introduccion a la corriente y voltaje alternos
 
 Marco Teorico:
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/Diagrama%20en%20blanco%20(4).png)
 
 Ejercicios:
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/CIRCUITOS%20DEBER%206_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/CIRCUITOS%20DEBER%206_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/CIRCUITOS%20DEBER%206_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/CIRCUITOS%20DEBER%206_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/CIRCUITOS%20DEBER%206_page-0005.jpg)
+
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/CIRCUITOS%20DEBER%206_page-0006.jpg)
 
 CAPITULO 12: Capacitores
 
 Marco Teorico:
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012mapa_page-0001.jpg)
 
 Ejercicios:
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012_page-0005.jpg)
+
+![](https://github.com/diego333jose/Informe-tarea-6/blob/main/Imagenes/SECCIÓN%2012_page-0006.jpg)
 
 Conclusiones:
 
