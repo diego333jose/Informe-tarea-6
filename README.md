@@ -84,7 +84,7 @@ Conclusiones:
 
 - El capacitor es un dispositivo eléctrico constituido por dos placas conductoras separadas por un material aislante y que posee la propiedad de capacitancia.
 
--La capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separación entre placas, estas se suman en paralelo y el total en serie es menor que la del capacitor más pequeño dispuesto en serie.
+- La capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separación entre placas, estas se suman en paralelo y el total en serie es menor que la del capacitor más pequeño dispuesto en serie.
 
 Recomendaciones:
 
