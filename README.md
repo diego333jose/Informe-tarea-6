@@ -94,4 +94,4 @@ Bibliografia:
 
 - Floyd T. (2007). 5 Principios de circuitos electricos. Pearson Education.
 
-Enlace del video:
+Enlace del video: https://www.youtube.com/watch?v=3XL5lgiYFBs
